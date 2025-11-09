@@ -1,0 +1,13 @@
+.menu-section {
+      padding: 80px 0;
+    }
+
+    .card img {
+      height: 250px;
+      object-fit: cover;
+    }
+
+    .card:hover {
+      transform: scale(1.03);
+      transition: all 0.3s ease;
+    }
